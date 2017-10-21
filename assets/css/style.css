@@ -1,0 +1,26 @@
+body {
+	background-image: url("../images/topography.png");
+	margin: 0;
+}
+
+.container {
+	background-color: yellow;
+	width: 80%;
+	height: 1280px;
+	margin: 10%;
+	text-align: center;
+}
+
+h1 {
+	color: blue;
+	font-size: 48px;
+	padding: 10px;
+}
+
+h3 {
+	font-size: 36px;
+}
+
+h5 {
+	font-size: 12px;
+}
